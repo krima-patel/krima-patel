@@ -9,6 +9,10 @@
 - 📫 How to reach me: patel.krima@hotmail.com
 - ⚡ Fun fact: I absolutely love my culture. Being a first-generation Indian, I was exposed to all things Bollywood, so my love for Bollywood music is deep. 💃🏽✨
 
+<p align="center">
+
 ![Krima's GitHub stats](https://github-readme-stats.vercel.app/api?username=krima-patel&show_icons=true&theme=radical)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krima-patel)](https://github.com/krima-patel/github-readme-stats)
+
+</p>
