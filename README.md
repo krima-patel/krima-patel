@@ -1,7 +1,7 @@
 ### Hi! My name is Krima! 🙋🏽‍♀️
 #### Currently a student at Nashville Software School, learning full-stack software development!
 
-#### Here are some ideas to get you started:
+#### A little about me:
 
 - 🔭 I’m currently working on planning for front-end capstone! 
 - 🌱 I’m currently learning React and Next.js.
@@ -10,3 +10,5 @@
 - ⚡ Fun fact: I absolutely love my culture. Being a first-generation Indian, I was exposed to all things Bollywood, so my love for Bollywood music is deep. 💃🏽✨
 
 ![Krima's GitHub stats](https://github-readme-stats.vercel.app/api?username=krima-patel&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krima-patel)](https://github.com/krima-patel/github-readme-stats)
