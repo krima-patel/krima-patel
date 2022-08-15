@@ -1,4 +1,4 @@
-### Hi! My name is Krima! 🙋🏽‍♀️
+# Hi! My name is Krima! 🙋🏽‍♀️
 #### Currently a student at Nashville Software School, learning full-stack software development!
 
 ### A little about me:
