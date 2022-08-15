@@ -1,4 +1,6 @@
 # Hi! My name is Krima! 🙋🏽‍♀️
+![image](https://user-images.githubusercontent.com/102260648/184732215-503456a7-bd97-4bee-b915-7ce0d62afeb5.png)
+
 #### Currently a student at Nashville Software School, learning full-stack software development!
 
 ### A little about me:
