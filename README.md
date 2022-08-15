@@ -1,7 +1,7 @@
 ### Hi! My name is Krima! 🙋🏽‍♀️
 #### Currently a student at Nashville Software School, learning full-stack software development!
 
-#### A little about me:
+### A little about me:
 
 - 🔭 I’m currently working on planning for front-end capstone! 
 - 🌱 I’m currently learning React and Next.js.
@@ -17,6 +17,7 @@
 
 </p>
 
+### My Skill Sets:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40"     height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
