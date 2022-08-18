@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning React and Next.js.
 - 💬 Ask me about anything related to my work here on my profile. Happy to discuss or answer any questions you may have!
 - 📫 How to reach me: patel.krima@hotmail.com
+- ⚡ Fun fact: 
 
 <p align="center">
 
