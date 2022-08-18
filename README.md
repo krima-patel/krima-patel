@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React and Next.js.
 - 💬 Ask me about anything related to my work here on my profile. Happy to discuss or answer any questions you may have!
 - 📫 How to reach me: patel.krima@hotmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I really enjoying reading, especially thriller/mystery and contemporary romance novels. If you have any recommendations, let me know! 📚
 
 <p align="center">
 
