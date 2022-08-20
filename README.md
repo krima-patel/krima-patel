@@ -13,7 +13,7 @@
 
 <p align="center">
 
-![Krima's GitHub stats](https://github-readme-stats.vercel.app/api?username=krima-patel&show_icons=true&theme=radical)
+![Krima's GitHub stats](https://github-readme-stats.vercel.app/api?username=krima-patel&show_icons=true&theme=dark)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krima-patel)](https://github.com/krima-patel/github-readme-stats)
 
