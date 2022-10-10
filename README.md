@@ -5,7 +5,7 @@
 
 ### A little about me:
 
-- 🔭 I’m currently working on planning for front-end capstone, [Curl Power](https://github.com/krima-patel/CurlPower)! 
+- 🔭 I just started my next journey onto back-end! Learning Python and Django.
 - 🌱 I’m currently learning React and Next.js.
 - 💬 Ask me about anything related to my work here on my profile. Happy to discuss or answer any questions you may have!
 - 📫 How to reach me: patel.krima@hotmail.com
