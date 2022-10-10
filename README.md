@@ -5,8 +5,8 @@
 
 ### A little about me:
 
-- 🔭 I just started my next journey onto back-end! Learning Python and Django.
-- 🌱 I’m currently learning React and Next.js.
+- 🔭 I just started my next journey onto back-end web development!
+- 🌱 I’m currently learning Python and Django. 
 - 💬 Ask me about anything related to my work here on my profile. Happy to discuss or answer any questions you may have!
 - 📫 How to reach me: patel.krima@hotmail.com
 - ⚡ Fun fact: I really enjoying reading, especially thriller/mystery and contemporary romance novels. If you have any recommendations, let me know! 📚
